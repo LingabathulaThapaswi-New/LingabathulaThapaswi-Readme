@@ -1,8 +1,8 @@
 # LingabathulaThapaswi-Readme
 Readme Introduction
 - 👋 Hi, I’m <!--@Dev-Shaurya-sinha-123--> @LingabathulaThapaswi-Readme
-- 👀 I’m interested in fields Software Develoment, WebDevlopment-Front-end,Back-end,Full-Stack, Android-Development, Data Science, Devops , CloudComputing.
-- 🌱 I’m currently learning git,github and Version Control.
+- 👀 I’m interested in fields Software Develoment, WebDevelopment-Front-end,Back-end,Full-Stack, Android-Development, Data Science, Devops , CloudComputing.
+- 🌱 I’m currently learning git,github and Version Control & Exploring and Experimenting HandsOn Technology.
 - 💞️ I’m looking to collaborate on Beginner Level Projects.
 - 📫 How to reach me  on github @ https://github.com/LingabathulaThapaswi-New.
 
